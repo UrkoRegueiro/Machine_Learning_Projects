@@ -6,8 +6,8 @@ Data set link: [Diabetes Dataset](https://www.kaggle.com/datasets/himanshunakran
 
 ## Appendix
 
-* &bull; Exploratory Data Analysis
-  
-* &bull; Models used:
-  * &empty; Gaussian NB
-  * &empty; Logistic Regression
+&bull; Exploratory Data Analysis
+
+&bull; Models used:
+  &empty; Gaussian NB
+  &empty; Logistic Regression
