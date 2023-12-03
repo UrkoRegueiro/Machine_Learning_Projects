@@ -1,6 +1,6 @@
 # Car price prediction using Regression algorithms
 
-In this project we analyze and explore a dataset on diabetes disease. The purpose of this project is to predict whether or not a pacient has diabetes.
+In this project we analyze and explore a dataset of prices from a car dealership. The purpose of this project is to predict the car selling price.
 
 Data set provided by HACKABOSS
 
