@@ -20,4 +20,4 @@ Data set link: [Hate speech and offensive Language Detection Data set](https://h
     * Logistic Regression
     * Random Forest Classifier
 * Evaluation
-* Results
+* Conclusions
